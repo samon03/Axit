@@ -1,0 +1,8 @@
+orange : #ff9933
+Black : #333333
+footer black : #000000
+
+grey text : #cccccc
+black text: #333333
+
+p : color: #8e8f92;
